@@ -1,2 +1,2 @@
 # test
-test repo of git for construction
+test repo of git commands destruction
